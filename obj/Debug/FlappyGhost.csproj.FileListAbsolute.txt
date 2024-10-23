@@ -1,0 +1,10 @@
+C:\Users\Dilara\source\repos\FlappyGhost\FlappyGhost\bin\Debug\FlappyGhost.exe.config
+C:\Users\Dilara\source\repos\FlappyGhost\FlappyGhost\bin\Debug\FlappyGhost.exe
+C:\Users\Dilara\source\repos\FlappyGhost\FlappyGhost\bin\Debug\FlappyGhost.pdb
+C:\Users\Dilara\source\repos\FlappyGhost\FlappyGhost\obj\Debug\FlappyGhost.csprojAssemblyReference.cache
+C:\Users\Dilara\source\repos\FlappyGhost\FlappyGhost\obj\Debug\FlappyGhost.FlappyGhost.resources
+C:\Users\Dilara\source\repos\FlappyGhost\FlappyGhost\obj\Debug\FlappyGhost.Properties.Resources.resources
+C:\Users\Dilara\source\repos\FlappyGhost\FlappyGhost\obj\Debug\FlappyGhost.csproj.GenerateResource.cache
+C:\Users\Dilara\source\repos\FlappyGhost\FlappyGhost\obj\Debug\FlappyGhost.csproj.CoreCompileInputs.cache
+C:\Users\Dilara\source\repos\FlappyGhost\FlappyGhost\obj\Debug\FlappyGhost.exe
+C:\Users\Dilara\source\repos\FlappyGhost\FlappyGhost\obj\Debug\FlappyGhost.pdb
